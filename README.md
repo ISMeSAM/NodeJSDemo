@@ -5,5 +5,5 @@ This project is only for study and exchange, if you have any questions please co
 
 ## How To Use
 ```bash
-      $ git clone https://github.com/ISMeSAM/NodeJSDemo.git
+$ git clone https://github.com/ISMeSAM/NodeJSDemo.git
 ```
