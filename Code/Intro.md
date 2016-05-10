@@ -56,11 +56,11 @@
 	hello.sayHello(); 
 
 
-`Node.js中自带了一个叫做"http"的模块，我们在我们的代码中请求它并把返回值赋给一个本地变量。`
+```Node.js中自带了一个叫做"http"的模块，我们在我们的代码中请求它并把返回值赋给一个本地变量。```
+
 
 
 <p align="center" >
-<br>
   <img src="./resourse/nodejs-require.jpg" alt="nodejs-require" title="nodejs-require">
 </p>
 
