@@ -1,0 +1,20 @@
+{
+	"message": "登陆成功",
+	"statusCode": 0,
+	"success": true,
+	"errors": null,
+	"data": {
+		"appPrincipal": {
+			"id": "6ab137878acb4f3cb527a1eaf1e9d486",
+			"loginName": "15950040347",
+			"regesiterType": "100",
+			"orgId": null,
+			"lastTime": 1462873091000,
+			"backurl": "",
+			"password": "***",
+			"cmpId": "6b496aedbaa34b58a5803e210c7e5116",
+			"cmpName": "王永镇的公司公司公司"
+		},
+		"httpStatus": "OK"
+	}
+}

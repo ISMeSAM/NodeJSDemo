@@ -24,7 +24,12 @@
 
 
 ## 开源框架
-[](https://github.com/madhums/node-express-mongoose-demo)
+
+[nodeclub](https://github.com/cnodejs/nodeclub) `Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统.界面优雅，功能丰富，小巧迅速`
+
+[Balloons.IO](https://github.com/rickyrauch/Balloons.IO) `Balloons.io 是一个多人聊天室应用，界面美观大方，数据库用的Redis。`
+
+[node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo)
 
 [mongo-express](https://github.com/mongo-express/mongo-express)
 

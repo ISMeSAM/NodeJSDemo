@@ -1,0 +1,31 @@
+{
+	
+	"user1":{
+		"id":"sdfqrq1341erq903f89sdf3r",
+		"username":"sam",
+		"age":100,
+		"height":183,
+		"hhh":"汉字",
+		"homepage":"https://xxxx.com/hhhh",
+		"QQ":10000
+	},
+	"user2":{
+		"id":"sdfqrq1341erq903fadf893r",
+		"username":"sam",
+		"age":100,
+		"height":183,
+		"homepage":"https://xxxx.com/hhhh",
+		"QQ":10000
+	},
+	"user3":{
+		"id":"sdfqrq178eerq903f89sdf3r",
+		"username":"sam",
+		"age":100,
+		"height":183,
+		"homepage":"https://xxxx.com/hhhh",
+		"QQ" : 10000
+	},
+
+}
+
+
