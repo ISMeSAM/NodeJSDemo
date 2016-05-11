@@ -22,6 +22,7 @@
 
 [Node.js安装详解](http://www.runoob.com/nodejs/nodejs-install-setup.html)
 
+[Express 4.x API 中文手册](http://www.expressjs.com.cn/4x/api.html)
 
 ## 开源框架
 
